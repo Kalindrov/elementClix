@@ -1,9 +1,19 @@
 .title {
-  width: 100%;
   text-align: center;
+  margin: 0%;
   font-size: 3rem;
-  color: #2A77AE;
+  color: yellow;
   text-shadow: 1px 1px lightskyblue;
-  margin-bottom: 50px;
-  background: black;
+  font-family: 'Chicle', cursive;
+}
+.scores {
+  font-size: 2rem;
+  text-align: center;
+  color: black;
+  margin-bottom: 1%;
+  font-family: 'Chicle', cursive;
+}
+.titleBox {
+  display: block;
+  width: 100%;
 }
