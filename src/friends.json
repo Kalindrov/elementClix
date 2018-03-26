@@ -1,74 +1,110 @@
 [
   {
     "id": 1,
-    "name": "Hydrogen",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
-    "clicked" : false
+    "name": "AGATE",
+    "image": "http://www.minerals.net/GemStoneImages/agate-sardonyx-t.jpg",
+    "count" : 0
   },
   {
     "id": 2,
-    "name": "Helium",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-    "clicked" : false
+    "name": "ALEXANDRITE",
+    "image": "http://www.minerals.net/GemStoneImages/alexandrite-gem-274058a-t.jpg",
+    "count" : 0
   },
   {
     "id": 3,
-    "name": "Lithium",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "clicked" : false
+    "name": "ALMANDINE",
+    "image": "http://www.minerals.net/GemStoneImages/almandine-garnet-gem-228691a-t.jpg",
+    "count" : 0
   },
   {
     "id": 4,
-    "name": "Beryllium",
-    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-    "clicked" : false
+    "name": "AMAZONITE",
+    "image": "http://www.minerals.net/GemStoneImages/amazonite-gem-254559a-t.jpg",
+    "count" : 0
   },
   {
     "id": 5,
-    "name": "Boron",
-    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-    "clicked" : false
+    "name": "AMETHYST",
+    "image": "http://www.minerals.net/GemStoneImages/amethyst-cabochon-gem-245826a_t.jpg",
+    "count" : 0
   },
   {
     "id": 6,
-    "name": "Carbon",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-    "clicked" : false
+    "name": "AMETRINE",
+    "image": "http://www.minerals.net/GemStoneImages/ametrine-gem-244322a-thb.jpg",
+    "count" : 0
   },
   {
     "id": 7,
-    "name": "Nitrogen",
-    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
-    "clicked" : false
+    "name": "ANDRADITE",
+    "image": "http://www.minerals.net/GemStoneImages/demantoid-garnet-gem-237586a-t.jpg",
+    "count" : 0
   },
   {
     "id": 8,
-    "name": "Oxygen",
-    "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
-    "clicked" : false
+    "name": "FIRE AGATE",
+    "image": "http://www.minerals.net/GemStoneImages/fire-agate-gem-224149a-t.jpg",
+    "count" : 0
   },
   {
     "id": 9,
-    "name": "Fluorine",
-    "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
-    "clicked" : false
+    "name": "CATS EYE AQUAMARINE",
+    "image": "http://www.minerals.net/GemStoneImages/cats-eye-aquamarine-gem-268124a-t.jpg",
+    "count" : 0
   },
   {
     "id": 10,
-    "name": "Neon",
-    "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
-    "clicked" : false
+    "name": "GOLDEN BERYL",
+    "image": "http://www.minerals.net/GemStoneImages/beryl-gem-260637a-t.jpg",
+    "count" : 0
   },
   {
     "id": 11,
-    "name": "Sodium",
-    "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
-    "clicked" : false
+    "name": "BLOODSTONE",
+    "image": "http://www.minerals.net/GemStoneImages/bloodstone-gem-315420b-t.jpg",
+    "count" : 0
   },
   {
     "id": 12,
-    "name": "Magnesium",
-    "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
-    "clicked" : false
+    "name": "CARNELIAN",
+    "image": "http://www.minerals.net/GemStoneImages/carnelian-gem-307186a-t.jpg",
+    "count" : 0
+  },
+  {
+    "id": 13,
+    "name": "CHRYSOBERYL",
+    "image": "http://www.minerals.net/GemStoneImages/chrysoberyl-gem-229672a-t.jpg",
+    "count" : 0
+  },
+  {
+    "id": 14,
+    "name": "CHRYSOCOLLA",
+    "image": "http://www.minerals.net/GemStoneImages/chrysocolla-gem-236373a-t.jpg",
+    "count" : 0
+  },
+  {
+    "id": 15,
+    "name": "CITRINE",
+    "image": "http://www.minerals.net/GemStoneImages/citrine-gem-273447a-t.jpg",
+    "count" : 0
+  },
+  {
+    "id": 16,
+    "name": "DIASPORE",
+    "image": "http://www.minerals.net/GemStoneImages/color-change-diaspore-gem-290961a-t.jpg",
+    "count" : 0
+  },
+  {
+    "id": 17,
+    "name": "DUMORTIERITE",
+    "image": "http://www.minerals.net/GemStoneImages/dumortierite-quartz-gem-363192b-t.jpg",
+    "count" : 0
+  },
+  {
+    "id": 18,
+    "name": "EMERALD",
+    "image": "http://www.minerals.net/GemStoneImages/emerald-gem-244138a-t.jpg",
+    "count" : 0
   }
 ]
