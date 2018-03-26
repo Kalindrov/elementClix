@@ -1,10 +1,10 @@
 {
-  "name": "mineralMemory",
+  "name": "elementClix",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kalindrov.github.io/mineralMemory/",
+  "homepage": "https://kalindrov.github.io/elementClix/",
   "devDependencies": {
-    "gh-pages": "^1.1.0"
+    
   },
   "dependencies": {
     "react": "^16.2.0",
