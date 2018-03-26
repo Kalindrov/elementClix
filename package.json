@@ -4,10 +4,9 @@
   "private": true,
   "homepage": "https://kalindrov.github.io/elementClix/",
   "devDependencies": {
-    
+    "gh-pages": "^1.1.0"
   },
   "dependencies": {
-    "gh-pages": "^1.1.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "^1.1.1"
