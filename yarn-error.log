@@ -15,15 +15,22 @@ Platform:
 
 npm manifest: 
   {
-    "name": "practice",
+    "name": "mineralMemory",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://kalindrov.github.io/mineralMemory/",
+    "devDependencies": {
+      "react-scripts": "1.1.1"
+    },
     "dependencies": {
+      "gh-pages": "^1.1.0",
       "react": "^16.2.0",
       "react-dom": "^16.2.0",
       "react-scripts": "1.1.1"
     },
     "scripts": {
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d build",
       "start": "react-scripts start",
       "build": "react-scripts build",
       "test": "react-scripts test --env=jsdom",
@@ -7257,10 +7264,10 @@ Lockfile:
 
 Trace: 
   Error: Command failed.
-  Exit code: 3221225786
+  Exit code: 1
   Command: C:\WINDOWS\system32\cmd.exe
   Arguments: /d /s /c react-scripts start
-  Directory: C:\Users\srpg4\Desktop\React App\practice
+  Directory: C:\Users\srpg4\Desktop\mineralMemory
   Output:
   
       at ProcessTermError.MessageError (C:\Users\srpg4\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:186:110)
